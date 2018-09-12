@@ -1,0 +1,16 @@
+{
+    "composer": {
+        "wallet": {
+            "type": "@ampretia/composer-wallet-cloudant",
+            "options": {
+                "database": "brokers-wallets",
+                "username": "0268c661-a904-4682-ba43-cc546a5128cd-bluemix",
+                "password": "0411c015eec7e955a30dd3039c262cc9d8e8fd812f7920430c84486882cad18d",
+                "host": "0268c661-a904-4682-ba43-cc546a5128cd-bluemix.cloudant.com",
+                "port": 443,
+                "url": "https://0268c661-a904-4682-ba43-cc546a5128cd-bluemix:0411c015eec7e955a30dd3039c262cc9d8e8fd812f7920430c84486882cad18d@0268c661-a904-4682-ba43-cc546a5128cd-bluemix.cloudant.com"
+
+            }
+        }
+    }
+}
